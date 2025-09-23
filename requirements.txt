@@ -1,7 +1,7 @@
 feedparser==6.0.10
 tweepy==4.12.1
 transformers==4.28.1
-torch==1.13.1
+torch==2.2.0
 notion-client==2.0.0
 schedule==1.1.0
 beautifulsoup4==4.10.0
